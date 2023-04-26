@@ -1,8 +1,9 @@
-### Olá! Sou Samuel Mendes 👋
 
-- 🔭 Atualmente eu trabalho com front-end
-- 🌱 Estou estudando Python 🐍
-- 📫 Entre em contato comigo via email: mendessamuel1@outlook.com
+##Hello! I'm Samuel Mendes 👋
+
+- 🔭 Currently I work with front-end
+- 🌱 I'm studying Python 🐍
+- 📫 Contact me via email: mendessamuel1@outlook.com
 
   <div align="center">
     <a href="https://github.com/mendess4">
