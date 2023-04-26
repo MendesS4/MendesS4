@@ -15,13 +15,8 @@
     <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
-    <img align="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-     <img align="right"  height="180" style="border-radius:50px;" src="https://media4.giphy.com/media/rNPyWq2tpWq0X2DuvF/giphy.gif?cid=790b76119a78e77cfa773401d2d0f1292f39cf0a14c6464e&rid=giphy.gif&ct=g">
   
-    
   </div>
     
   </div>
