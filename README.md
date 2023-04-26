@@ -1,7 +1,5 @@
 ### Olá! Sou Samuel Mendes 👋
 
-  <h2>`Bem-Vindo ao meu ${GitHub}`<h2>
-
 - 🔭 Atualmente eu trabalho com front-end
 - 🌱 Estou estudando Python 🐍
 - 📫 Entre em contato comigo via email: mendessamuel1@outlook.com
