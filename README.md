@@ -1,5 +1,5 @@
 
-##Hello! I'm Samuel Mendes 👋
+Hello! I'm Samuel Mendes 👋
 
 - 🔭 Currently I work with front-end
 - 🌱 I'm studying Python 🐍
