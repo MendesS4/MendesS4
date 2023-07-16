@@ -2,7 +2,6 @@
 Hello! I'm Samuel Mendes 👋
 
 - 🔭 Currently I work with front-end
-- 🌱 I'm studying Python 🐍
 - 📫 Contact me via email: mendessamuel1@outlook.com
 
   <div align="center">
